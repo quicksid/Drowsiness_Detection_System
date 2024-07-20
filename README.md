@@ -1,6 +1,6 @@
 # Drowsiness Detection System (OpenCV) 👀 ❌ 😴 🚫 🚗
 
-These days road accidents are frequent because of the drowsiness of drivers and lack of attention on road. It is normal for drivers to feel sleeping behind the steering wheel while taking long road drives.
+These days road accidents are frequent because of the drowsiness of drivers and lack of attention on road. It is normal for drivers to feel sleepy behind the steering wheel while taking long road drives.
 
 This code can detect the eyes of you (the driver) and alerts when the you are drowsy.
 
